@@ -15,7 +15,7 @@ namespace Modul1Termin05.Primer1
             int[] niz = new int[] {1,2,3};
             try
             {
-                //1
+                //1 
                 //broj = Int32.Parse("tri");
 
                 //2
