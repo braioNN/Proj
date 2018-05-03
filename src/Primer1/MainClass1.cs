@@ -19,7 +19,8 @@ namespace Modul1Termin05.Primer1
                 //broj = Int32.Parse("tri");
 
                 //2
-                broj = ParsirajStringUInt("tri");
+                broj = ParsirajStringUInt("cetiri");
+	Console.WriteLine("bla");
 
                 //3 
                 //KopirajObjekte(null);
