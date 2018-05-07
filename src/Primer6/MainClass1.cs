@@ -19,8 +19,7 @@ namespace Modul1Termin05.Primer6
                 //broj = Int32.Parse("tri");
 
                 //2
-                var_broj = ParsirajStringUInt("tri");
-		Console.WriteLine("bla");
+                varb = ParsirajStringUInt("tri");
 
                 //3 
                 //KopirajObjekte(null);
